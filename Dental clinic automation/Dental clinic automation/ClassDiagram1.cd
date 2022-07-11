@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dental_clinic_automation.Data">
+    <Position X="5.75" Y="7.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Dental_clinic_automation.Data.Table" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Dental_clinic_automation.Data.EventDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAEAAAEAAAAAAAAAKIAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dental_clinic_automation.Doctor">
+    <Position X="3.75" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAIAAABAAAAAAACkAAAABACAAAAAAAAAAAAAgBAAAAA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dental_clinic_automation.Patient">
+    <Position X="2" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAABAAAAoAAAGIAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dental_clinic_automation.Service" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAIABAAQAAAAAgAAAABAQAAAAAAAAAAAABgAAAAQA=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dental_clinic_automation.WaitingList" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAIQAAAAAAAAAAAAAQBAAAQAACAEAAAAACAAA=</HashCode>
+      <FileName>WaitingList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dental_clinic_automation.Person">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAANCAAAQAIBACAAAAEAAQAAAAAAAAAAAAAIAAAABA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Dental_clinic_automation.IObject">
+    <Position X="7" Y="3" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

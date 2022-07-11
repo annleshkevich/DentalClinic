@@ -1,0 +1,19 @@
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\bin\Debug\net6.0-windows\Dental clinic automation.exe
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\bin\Debug\net6.0-windows\Dental clinic automation.deps.json
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\bin\Debug\net6.0-windows\Dental clinic automation.runtimeconfig.json
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\bin\Debug\net6.0-windows\Dental clinic automation.dll
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\bin\Debug\net6.0-windows\Dental clinic automation.pdb
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.csproj.AssemblyReference.cache
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental_clinic_automation.Form1.resources
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental_clinic_automation.Form2.resources
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.csproj.GenerateResource.cache
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.AssemblyInfoInputs.cache
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.AssemblyInfo.cs
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.csproj.CoreCompileInputs.cache
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.dll
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\refint\Dental clinic automation.dll
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.pdb
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental clinic automation.genruntimeconfig.cache
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\ref\Dental clinic automation.dll
+D:\Документы\ООП\Dental clinic automation\Dental clinic automation\obj\Debug\net6.0-windows\Dental_clinic_automation.Properties.Resources.resources
